@@ -11,5 +11,8 @@
     <div>
         Hello, World!
     </div>
+    <div style="background-color:cornflowerblue">
+        And this is Content!
+    </div>
 </body>
 </html>
