@@ -16,5 +16,10 @@ namespace MVCTest.Controllers
             return View();
         }
 
+        public ActionResult About()
+        {
+            return View();
+        }
+
     }
 }
