@@ -9,7 +9,7 @@
 </head>
 <body>
     <div>
-        Hello.
+        Hello, World!
     </div>
 </body>
 </html>
