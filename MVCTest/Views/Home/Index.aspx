@@ -11,7 +11,7 @@
     <div>
         Hello, World!
     </div>
-    <div style="background-color:cornflowerblue">
+    <div style="background-color:cornflowerblue; width:200px; margin-left:50px;">
         And this is Content!
     </div>
 </body>
